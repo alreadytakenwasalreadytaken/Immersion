@@ -101,3 +101,5 @@ Exploration vs Narrative
 Real vs Unreal paradox. Whats real
 
 Constraints, guides. “Realistic, Immersion, Narrative” Pull some one in
+
+Interaction Mechanincs https://vimeo.com/176951948
